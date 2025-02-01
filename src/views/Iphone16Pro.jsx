@@ -1,4 +1,4 @@
-import Iphone16pro from "@/assets/images/Iphone16pro.png";
+import Iphone16pro from "@/assets/images/iPhone16pro.png";
 import { OptionButtons } from "@/components/OptionButtons";
 
 export function Iphone16Pro() {

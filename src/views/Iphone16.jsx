@@ -1,4 +1,4 @@
-import Iphone16img from "@/assets/images/iPhones16.png";
+import Iphone16img from "@/assets/images/iphones16.png";
 import a18CPU from "@/assets/images/a18CPU.png";
 import { OptionButtons } from "@/components/OptionButtons";
 import { useState } from "react";

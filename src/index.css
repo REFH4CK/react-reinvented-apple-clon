@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('/src/assets/SF-Pro-Display-Regular.otf');
+
+@font-face {
+  font-family: 'SFLight';
+  src: url('/src/assets/SF-Pro-Display-Light.otf') format('opentype');
+}
+
+ion-icon {
+  cursor: pointer;
+  font-size: 1.5rem;
+}
+
+#iphone-16-pro {
+  mask-image: linear-gradient(black 60%, transparent);
+}
